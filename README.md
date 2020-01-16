@@ -14,6 +14,9 @@ TDD project that was done following video tutorial by Paul Solt.
 
 Video Links
 Part 1: https://youtu.be/8jahYWf8EAE
+
 Part 2: https://youtu.be/G7oz1zg3MfA
+
 Part 3: https://youtu.be/uI4NKKhhDf0
+
 Part 4: https://youtu.be/nXEMA7J1LNs
